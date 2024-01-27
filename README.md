@@ -2,7 +2,7 @@
 - 👀 I’m interested in passing my exercises at university
 - 🌱 I’m currently learning jss solutions
 
-- dodałem ograniczenie zoomu do okolicy olsztyna, możliwość dodania markera po kliknięciu i wyświetlenie jego współrzędnych, możliwość "skakania" w 2 miejsca
+- dodałem ograniczenie zoomu do okolicy olsztyna, możliwość dodania markera po kliknięciu i wyświetlenie jego współrzędnych, możliwość "skakania" w 2 miejsca, możliwość przesuwania markera, powiadomienie o usunięciu markera
 
 <!---
 Niczkoo/Niczkoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
